@@ -1,0 +1,6 @@
+# My First Python Program
+# By: Ashiru Abdullahi Bello
+
+print("Salam Alaikum from GitHub!")
+name = input("What's your name? ")
+print(f"Nice to meet you, {name}. I am learning CS at BUK.")
